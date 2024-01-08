@@ -5,7 +5,7 @@ Semana Dev em Dobro
 
 Proje de site desenvolvido durante o curso DevQuest.
 
-Acesso: <a href="" target="_blank">Projeto Landing Page</a> 
+Acesso: <a href="https://albertobtlima.github.io/DevQuest-Projeto-landing-page-com-flex-e-grid/" target="_blank">Landing Page com Flex e Grid</a> 
 
 Usados nesse projeto:
 <ul>
